@@ -1,5 +1,5 @@
 title = "Ren Lee"
-baseURL = "https://pid..ren"
+baseURL = "https://pid.ren"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
