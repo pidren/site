@@ -1,15 +1,4 @@
-+++
-title = "Ren Lee"
-+++
-
-## Hello! 👋
-
-{{< figure class="avatar" src="/profile.jpg" alt="avatar">}}
-
-Thanks for stopping by - I am Ren.
-Currently, Site Reliability Engineering Manager @ Arista Networks Inc, leading the CloudVision SaaS team. 
-
----
+Currently, Site Reliability Engineering Manager @ Arista Networks Inc, on CloudVision SaaS team.
 
 ## As a *Site Reliability Engineer*, I am a
 - Postmortem perfectionist, starting from RCA to action item closure
@@ -32,8 +21,3 @@ Currently, Site Reliability Engineering Manager @ Arista Networks Inc, leading t
 - Leading greater SRE culture adoption within the company
 - Defining quarterly and yearly goals for both short and long term planning
 
----
-
-## How to reach me
-I am allergic to social media, so the best way to reach me is via email or a message on LinkedIn.
-I would love to get to know you better and chat about all things SRE!

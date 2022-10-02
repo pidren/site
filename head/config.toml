@@ -1,0 +1,57 @@
+baseURL = 'https://pid.ren/'
+languageCode = 'en-us'
+title = 'Ren Lee'
+theme = "cactus"
+
+[params]
+  colortheme = "white" # dark, light, white, or classic
+  description = "Systems thinker, problem solver, and pattern finder. Oh, and I love being an SRE. Thanks for stopping by!"
+  mainSection = "posts"
+  mainSectionTitle = "Food for Thought"
+  showAllPostsOnHomePage = false
+  postsOnHomePage = 5
+  tagsOverview = false
+  copyright = "Copyright @ 2022 Ren Lee, Hugo Theme Cactus by Zeran Wu."
+  googleAnalytics = "G-N0FVQSX2JC"
+  rss = true
+  mathjax = true
+  showAllPostsArchive = true
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+[[menu.main]]
+  name = "Food for Thought"
+  url = "/posts"
+  weight = 2
+[[menu.main]]
+  name = "Tags"
+  url = "/tags"
+  weight = 3
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 4
+
+[[params.social]]
+  name = "linkedin"
+  link = "https://www.linkedin.com/in/pidren/"
+[[params.social]]
+  name = "github"
+  link = "https://github.com/pidren"
+[[params.social]]
+  name = "email"
+  link = "ren@pid.ren" # no need for "mailto:" at the start
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4
