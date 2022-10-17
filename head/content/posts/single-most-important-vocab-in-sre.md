@@ -28,19 +28,24 @@ To me the "R" in SRE always stood for one thing and one thing only --
 ***Risk.***
 
 SREs, with risk oriented mindset, should be dedicated to the following:
-- *Assessing risk of changes made to system*, be it configuration change to a cluster, a new deployment, bugs found, failure to scale up to meet demand in time, changes in security systems such as RBAC, new features being shipped that impacts existing parts of the system, etc,
+- *Assessing risk of changes made to system*,  
+be it configuration change to a cluster, a new deployment, bugs found, failure to scale up to meet demand in time, changes in security systems such as RBAC, new features being shipped that impacts existing parts of the system, etc,
 
-- *Calculating the cost/benefit of that risk*, to in core, answer the question "Is this change worth it?",
+- *Calculating the cost/benefit of that risk*,  
+to in core, answer the question "Is this change worth it?",
 
-- *Predict outcomes of that risk*, by gaining as much of a complete understanding of consequences of assuming the risk to plan for potential avenues of failure, rollback mechanisms, and disaster recovery,
+- *Predict outcomes of that risk*,  
+by gaining as much of a complete understanding of consequences of assuming the risk to plan for potential avenues of failure, rollback mechanisms, and disaster recovery,
 
-- *Protect rest of the system for the assumed risk"*, by building reasonable guardrails as part of system design from day 1 rather than safety being an afterthought, 
+- *Protect rest of the system for the assumed risk*,  
+by building reasonable guardrails as part of system design from day 1 rather than safety being an afterthought, 
 
-- *Maintain velocity of rest of the system by always taking calculated risks"*, by using widely known concepts such as error budgets to ensure you are always making changes to the system you operate so that you do not stay stagnant as a system, and understanding that you cannot have a 100% reliable system, but you can strive to be as near to that as much as possible.
+- *Maintain velocity of rest of the system by always taking calculated risks"*,  
+by using widely known concepts such as error budgets to ensure you are always making changes to the system you operate so that you do not stay stagnant as a system, and understanding that you cannot have a 100% reliable system, but you can strive to be as near to that as much as possible.
 
-Now, I think some folks definitely have a reaction when they hear the word "risk". It is scary, it spells danger, it's unpleasant, and for most people, stress inducing. 
+Now, I think some folks definitely have a reaction when they hear the word "risk" - it is scary, it spells danger, it's unpleasant, and for most people, incredibly stress inducing. 
 
-I'd like to argue actually the opposite.
+I'd like to argue that we should see risk in an opposite way.
 
 Risk is the best vocabulary we've got to really, concretely define what it means to have a reliable system. Risk is the unit with which we can define reliability. Risk is the tool at which we can design reliability into a system. Risk is the paradigm with which we can reason about bounds of guaranteed reliability of a system. It is the most important tangibility we can apply to the concept of reliability.
 
