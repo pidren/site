@@ -1,6 +1,6 @@
 ---
-title: "Software Looking Beyond Just the Technical"
-date: 2022-10-01T11:16:56-07:00
+title: "Software: Looking Beyond Just the Technical"
+date: 2022-10-01T00:00:00-07:00
 tags: 
 - management
 - organization
