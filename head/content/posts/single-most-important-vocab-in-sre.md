@@ -35,12 +35,12 @@ be it configuration change to a cluster, a new deployment, bugs found, failure t
 to answer the question "Is this change worth it?",
 
 - *Predict outcomes of that risk*,  
-by gaining as much of a complete understanding of the consequences of assuming the risk to plan for probabilities of failure, rollback mechanisms, failover and other disaster recovery,
+by gaining best understanding of the consequences of assuming the risk to plan for probabilities of failure, rollback mechanisms, failover and other disaster recovery,
 
-- *Protect rest of the system for the assumed risk*,  
+- *Protect rest of the system from the assumed risk*,  
 by building reasonable guardrails as part of the system design from day 1 rather than safety being an afterthought, 
 
-- *Maintain velocity of changes made to the system by always taking calculated risks"*,  
+- *Maintain velocity of changes made to the system by always taking calculated risks*,  
 by quantifying risks so you can calculate how much risk you can assume continuously to prevent a stagnating system, and understanding that you cannot have a 100% reliable system, but you can strive to be as near to that as much as possible.
 
 Now, I think some folks definitely have a reaction when they hear the word "risk" - it is scary, it spells danger, it's unpleasant, and for most people, incredibly stress inducing. 
