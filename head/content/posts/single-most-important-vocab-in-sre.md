@@ -51,4 +51,5 @@ Risk is the best vocabulary we've got to really, concretely define what it means
 
 And that's why risk should be the single most important vocabulary for any SRE.
 
+---
 Have a good day! 😊 - Ren
