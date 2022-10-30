@@ -37,7 +37,7 @@ As a manager, you must become a ninja at reading people and being able to relate
 
 Of course, individuals must own their careers and their own personal successes themselves; but you are there to help motivate, plan/guide, mentor, and recognize what they cannot see in themselves be it skills, strengths, weaknesses, ways they can improve, etc. You'll be required to tackle those red flags early, quickly, and discreetly. Maybe it'll require you to tell them what they don't want to hear, and trust me, it'll be just as difficult for you as the person hearing it. It's all part of the job.
 
-### ⚓_If you falter, your whole team falters_
+### ⚓ _If you falter, your whole team falters_
 If you're unsure of the vision, your entire team will be unsure.  
 If your messaging is all over the place, your team will be all over the place.  
 If you don't have a plan, then your team doesn't have a plan (this doesn't mean you can't listen to other leaders in your team to help you plan).   
