@@ -89,8 +89,5 @@ I became a software engineer because I like building systems. I'll always love i
 
 As a manager, make sure to make time to stay hands on. Continue to code, continue to debug, design, build. Keep learning, go to conferences in your field, and continue growing. You can do all the things you love and what made you become a software engineer in the first place while still being a kickass manager.
 
-
-More to come in part 2!
-
 ---
 Have a good day! 😊 - Ren
